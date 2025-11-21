@@ -1,6 +1,6 @@
 {
   "name": "@umituz/react-native-firebase-crashlytics",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Firebase Crashlytics service for React Native apps - Platform-agnostic error tracking with decorators",
   "main": "./src/index.ts",
   "types": "./src/index.ts",
